@@ -1,19 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nctlcnt/nctlcnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙋‍♀️ This is Sijia Che (pronouncation: ssuchia cha)
+- 💻 I am a front-end developer (React/Vue)
+- 🐱 cat lover
+- 🌟 ~I play violin~ I can make violin sound like an old door needs to be fixed hundred years ago
 
-Here are some ideas to get you started:
+> 💗 code (almost) every line with love 💗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### STATUS
 <!--START_SECTION:waka-->
 
 ```txt
