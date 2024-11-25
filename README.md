@@ -1,14 +1,12 @@
 ## Hi there 👋
 
 - 🙋‍♀️ This is Sijia Che (pronouncation: ssuchia cha)
-- 💻 I am a front-end developer (React/Vue)
-    - Actively using React as work framework 
-    - Casually using Vue as side project framework  
-- 🐱 cat lover
-- 🌟 ~I play violin~ I can make violin sound like an old door needs to be fixed hundred years ago
+- 💻 Frontend Developer (React 9-5 Edition)
+- ✨ Easily attracted to shiny new tech
+- 🐱 Cat lover
+- 🌟 ~I play violin~ I make my violin sound like a 100-year-old door that needs oiling
 
-> 💗 code (almost) every line with love 💗
-
+Code with 💗 (mostly)
 
 ### STATUS
 <!--START_SECTION:waka-->
