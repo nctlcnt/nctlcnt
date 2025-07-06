@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🙋‍♀️ This is Sijia Che (pronouncation: ssuchia cha)
-- 💻 Frontend Developer (React 9-5 Edition)
+- 💻 Former Frontend Developer
 - ✨ Easily attracted to shiny new tech
 - 🐱 Cat lover
 - 🌟 ~I play violin~ I make my violin sound like a 100-year-old door that needs oiling
