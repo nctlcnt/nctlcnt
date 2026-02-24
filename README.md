@@ -12,9 +12,9 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-Other        17 mins               █████████████████░░░░░░░░   67.47 %
-JavaScript   6 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-JSON         1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other        15 mins               ████████████████░░░░░░░░░   64.01 %
+JavaScript   6 mins                ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+JSON         1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
 ```
 
 <!--END_SECTION:waka-->
