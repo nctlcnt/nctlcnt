@@ -12,8 +12,8 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 mins                █████████████████░░░░░░░░   68.54 %
-YAML    1 min                 ████████░░░░░░░░░░░░░░░░░   31.46 %
+YAML    1 min                 ███████████████▓░░░░░░░░░   63.03 %
+Other   0 secs                █████████▒░░░░░░░░░░░░░░░   36.97 %
 ```
 
 <!--END_SECTION:waka-->
