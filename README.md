@@ -12,7 +12,8 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        28 mins               ██████████████████████▓░░   90.59 %
+Markdown   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
 ```
 
 <!--END_SECTION:waka-->
