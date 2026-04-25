@@ -12,11 +12,11 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 43 mins         ██████████░░░░░░░░░░░░░░░   39.47 %
-Markdown     5 hrs 23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-TeX          4 hrs 17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-Other        2 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JSON         1 hr 57 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Python       10 hrs 21 mins        ████████████▒░░░░░░░░░░░░   49.34 %
+Markdown     5 hrs 17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+JSON         1 hr 58 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Other        1 hr 43 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+TypeScript   36 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
