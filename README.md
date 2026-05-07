@@ -12,11 +12,11 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          5 hrs 13 mins         ██████████▓░░░░░░░░░░░░░░   42.51 %
-Markdown     2 hrs 19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-Other        1 hr 51 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-YAML         1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-TypeScript   50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+TeX          4 hrs 16 mins         █████████░░░░░░░░░░░░░░░░   35.79 %
+Other        2 hrs 33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+Markdown     2 hrs 18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+YAML         1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+TypeScript   50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
