@@ -19,9 +19,9 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.27 %
-Python       2 hrs 6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
-Markdown     1 hr 41 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+TypeScript   2 hrs 43 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+Python       2 hrs 13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+Markdown     2 hrs 5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
 YAML         47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 Other        37 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
