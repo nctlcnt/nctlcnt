@@ -5,9 +5,11 @@
 - 🏡 My little corner of the internet: [cece.sh](https://cece.sh) 🚧
 > very much unfinished, and I love it anyway
 
-- 💻 Software engineer · 4.5 years of frontend (React/TypeScript) on B2B products,
+- 💻 Software engineer · ~5 years building B2B products,
   including an emergency notification system that real screen-reader users signed off on (WCAG AA+)
+- 🌏 Grew up (professionally) in an international team — fluent in English, Mandarin, and time-zone math
 - 🎓 Now doing an MSc in Data Science @ UNSW
+- 🛠️ These days: Python, FastAPI, and a tiny ARM server I keep giving more jobs to
 - ✨ Easily attracted to shiny new tech
 - 🐱 Cat lover
 - 🎻 ~~I play violin~~ I make my violin sound like a 100-year-old door that needs oiling
