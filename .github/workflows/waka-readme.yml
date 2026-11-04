@@ -12,6 +12,17 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
+      - name: Check WakaTime API availability
+        id: wakatime-check
+        run: |
+          status_code="$(curl -s -o /dev/null -w '%{http_code}' -u "${{ secrets.WAKATIME_API_KEY }}:" "https://wakatime.com/api/v1/users/current/status_bar/today")"
+          if [ "$status_code" = "200" ]; then
+            echo "can_update=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::Skipping Waka README update because WakaTime API returned HTTP ${status_code}."
+            echo "can_update=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: athul/waka-readme@master # this action name
+        if: steps.wakatime-check.outputs.can_update == 'true'
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
