@@ -20,10 +20,8 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-Python       22 mins               ████████████▒░░░░░░░░░░░░   48.91 %
-Other        16 mins               █████████░░░░░░░░░░░░░░░░   36.02 %
-Markdown     6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Markdown   6 mins                █████████████████░░░░░░░░   67.80 %
+Other      3 mins                ████████░░░░░░░░░░░░░░░░░   32.20 %
 ```
 
 <!--END_SECTION:waka-->
