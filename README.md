@@ -20,8 +20,7 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   6 mins                █████████████████░░░░░░░░   67.80 %
-Other      3 mins                ████████░░░░░░░░░░░░░░░░░   32.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
