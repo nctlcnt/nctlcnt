@@ -20,11 +20,11 @@ Code with 💗 (mostly)
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 48 mins         █████████░░░░░░░░░░░░░░░░   36.47 %
-Other        3 hrs 29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
-Bash         1 hr 39 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-TeX          1 hr 25 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-TypeScript   52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Markdown     5 hrs 54 mins         ██████████░░░░░░░░░░░░░░░   39.66 %
+Other        3 hrs 40 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
+Bash         2 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+TeX          1 hr 25 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+TypeScript   39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
